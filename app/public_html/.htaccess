@@ -1,6 +1,6 @@
 Options -Indexes
 
 RewriteEngine Options
-RewriteRule ^(.*)$ http://films-alberto-despliegue.chickenkiller.com/$ [R=301,L]
+RewriteRule ^(.*)$ http://films-javier-despliegue.chickenkiller.com/$ [R=301,L]
 
 ErrorDocument 404 /404.html
